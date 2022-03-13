@@ -150,7 +150,7 @@ p {
  content: url("images/icon-view.svg");
   position: absolute;
   left: 50%;
-  top: 35%;
+  top: 50%;
   transform: translate(-50%, -50%);
   color: #000;
   z-index: 1;
